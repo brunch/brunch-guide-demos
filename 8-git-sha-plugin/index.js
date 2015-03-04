@@ -48,5 +48,5 @@ function getSHA(callback) {
   });
 }
 
-// Publication du plugin
+// Le plugin est l’export par défaut du module.
 module.exports = GitShaPlugin;
