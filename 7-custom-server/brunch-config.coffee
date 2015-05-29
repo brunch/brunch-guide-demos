@@ -6,5 +6,4 @@ module.exports = config:
     stylesheets: joinTo: 'app.css'
     templates: joinTo: 'app.js'
   server:
-    path: 'custom-server.js'
     run: yes

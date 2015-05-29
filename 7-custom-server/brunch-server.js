@@ -7,7 +7,7 @@ var logger     = require('morgan');
 var Path       = require('path');
 
 // Notre fonction de démarrage serveur
-exports.startServer = function startServer(port, path, callback) {
+module.exports = function startServer(port, path, callback) {
   var app = express();
   var server = http.createServer(app);
 
