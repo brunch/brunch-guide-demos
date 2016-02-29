@@ -3,8 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "devDependencies": {
-    "brunch": "^1.8.3",
-    "javascript-brunch": "^1.7.1",
-    "sass-brunch": "^1.8.10"
+    "brunch": "^2.4.2",
+    "javascript-brunch": "^2.0.0",
+    "sass-brunch": "^2.0.0"
   }
 }

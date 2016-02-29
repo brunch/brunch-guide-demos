@@ -1,5 +1,7 @@
 "use strict";
 
+var $ = require('jquery');
+
 var App = {
   items: ['Learn Brunch', 'Apply to my projects', '…', 'Profit!'],
 

@@ -5,3 +5,6 @@ module.exports = config:
       'app.js': /^app\//
     stylesheets: joinTo: 'app.css'
     templates: joinTo: 'app.js'
+  npm:
+    globals:
+      jade: 'jade/runtime'

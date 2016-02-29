@@ -1,5 +1,6 @@
 "use strict";
 
+var $ = require('jquery');
 var count = 0;
 
 var App = {
